@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     const dp = document.querySelector('.dp');
+    
     const img = dp.querySelector('img');
     
     dp.classList.add('parallax');
